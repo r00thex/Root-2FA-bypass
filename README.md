@@ -93,8 +93,4 @@
     0
     ASADSas
 
-### 13.Change request method
 
-
-
-[More good stuff](https://share.google/ofgUlEdK2Yzy9V3kV)
