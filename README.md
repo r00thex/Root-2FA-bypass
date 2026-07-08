@@ -1,4 +1,4 @@
-# Root-2FA-bypass
+# 2FA-bypass
 
 ### 1.Response manipulation </br>
 
