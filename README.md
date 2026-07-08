@@ -97,4 +97,4 @@
 
 
 
-[More good stuff](https://book.hacktricks.xyz/pentesting-web/2fa-bypass)
+[More good stuff](https://share.google/ofgUlEdK2Yzy9V3kV)
